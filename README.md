@@ -20,10 +20,6 @@ The goal of this task was to practice **Data Visualization and Storytelling** us
 - **Home Office segment** drives the largest share of profits.
 - The dashboard allows dynamic filtering by state to explore regional performance.
 
-## 🖼 Screenshots:
-The main dashboard view is included below:
-![Superstore Dashboard](./Screenshot%202025-06-03%20220137.png)
-
 ## 📂 Files Included:
 - `Superstore.csv` – Dataset used
 - `Screenshot 2025-06-03 220137.png` – Dashboard output
